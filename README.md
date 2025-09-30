@@ -16,11 +16,6 @@
 
 <br />
 
-### Desktop Preview
-
-https://github.com/pawantech12/filmlane-website/assets/118673866/6bd4a657-9c8a-406a-b733-1b8d1013c593
-
-
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
