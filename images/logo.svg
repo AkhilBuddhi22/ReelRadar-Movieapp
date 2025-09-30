@@ -1,0 +1,27 @@
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Film Reel Icon - Properly sized for navigation -->
+  <g>
+    <!-- Main reel circle -->
+    <circle cx="20" cy="20" r="18" fill="#7c3aed" stroke="#ffffff" stroke-width="1.5"/>
+    
+    <!-- Film holes -->
+    <circle cx="11" cy="11" r="2.5" fill="#ffffff"/>
+    <circle cx="29" cy="11" r="2.5" fill="#ffffff"/>
+    <circle cx="29" cy="29" r="2.5" fill="#ffffff"/>
+    <circle cx="11" cy="29" r="2.5" fill="#ffffff"/>
+    <circle cx="20" cy="6" r="2" fill="#ffffff"/>
+    <circle cx="34" cy="20" r="2" fill="#ffffff"/>
+    <circle cx="20" cy="34" r="2" fill="#ffffff"/>
+    <circle cx="6" cy="20" r="2" fill="#ffffff"/>
+    
+    <!-- Center hub -->
+    <circle cx="20" cy="20" r="3.5" fill="#ffffff"/>
+    <circle cx="20" cy="20" r="1.5" fill="#7c3aed"/>
+  </g>
+  
+  <!-- ReelRadar Text - Compact and readable -->
+  <g fill="#ffffff" font-family="Arial, sans-serif" font-weight="bold" font-size="14">
+    <text x="48" y="17" letter-spacing="0.5px">Reel</text>
+    <text x="48" y="31" letter-spacing="0.5px" fill="#7c3aed">Radar</text>
+  </g>
+</svg>
